@@ -53,7 +53,7 @@ git clone [https://github.com/Shivpatil-byte/LangGraph-and-Web-Scraping.git](htt
 cd LangGraph-and-Web-Scraping
 
 2. Create a virtual environment and install dependencies:
-```bash
+
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install python-dotenv langchain-groq firecrawl-py neo4j
