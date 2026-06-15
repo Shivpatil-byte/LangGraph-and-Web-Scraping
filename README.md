@@ -47,13 +47,13 @@ Before you begin, ensure you have the following accounts and API keys:
 
 Setup & Installation
 
-1. Clone the repository:**
+1. Clone the repository:
 ```bash
 git clone [https://github.com/Shivpatil-byte/LangGraph-and-Web-Scraping.git](https://github.com/Shivpatil-byte/LangGraph-and-Web-Scraping.git)
 cd LangGraph-and-Web-Scraping
 
 2. Create a virtual environment and install dependencies:
-
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install python-dotenv langchain-groq firecrawl-py neo4j
@@ -96,3 +96,4 @@ RETURN e.name AS Agent, a.relation AS Action
 Cypher
 MATCH (e:Entity)-[:ACTS_AS]->(a:Assertion)-[:SUPPORTED_BY]->(s:TextWitness)
 RETURN e.name AS Entity, a.relation AS Action, s.uri AS SourceURL
+
