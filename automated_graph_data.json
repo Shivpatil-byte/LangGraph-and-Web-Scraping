@@ -1,0 +1,49 @@
+[
+  {
+    "source_url": "http://www.valmikiramayan.net/bala_1.htm#VerseLocator",
+    "entities": [
+      {
+        "name": "Narada",
+        "type": "Sage",
+        "karaka_role": "Informant"
+      },
+      {
+        "name": "Valmiki",
+        "type": "Sage",
+        "karaka_role": "Inquirer"
+      },
+      {
+        "name": "Rama",
+        "type": "Person",
+        "karaka_role": "Subject of Inquiry"
+      }
+    ],
+    "relation": "Inquiry about Rama's virtues"
+  },
+  {
+    "source_url": "http://www.valmikiramayan.net/bala_2.htm#VerseLocator",
+    "entities": [
+      {
+        "name": "Valmiki",
+        "type": "Sage",
+        "karaka_role": "Main Character"
+      },
+      {
+        "name": "Narada",
+        "type": "Divine Sage",
+        "karaka_role": "Inspirational Figure"
+      },
+      {
+        "name": "Bharadwaja",
+        "type": "Disciple",
+        "karaka_role": "Supporting Character"
+      },
+      {
+        "name": "Brahma",
+        "type": "Lord of Speech",
+        "karaka_role": "Divine Authority"
+      }
+    ],
+    "relation": "Valmiki meets Narada, is inspired, and then goes to the Tamasa river for a bath, where he has an encounter that leads to the creation of the Ramayana"
+  }
+]
