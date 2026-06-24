@@ -1,49 +1,1514 @@
 [
   {
-    "source_url": "http://www.valmikiramayan.net/bala_1.htm#VerseLocator",
+    "source_url": "",
     "entities": [
       {
-        "name": "Narada",
-        "type": "Sage",
-        "karaka_role": "Informant"
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
       },
       {
-        "name": "Valmiki",
-        "type": "Sage",
-        "karaka_role": "Inquirer"
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
       },
       {
-        "name": "Rama",
-        "type": "Person",
-        "karaka_role": "Subject of Inquiry"
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
       }
     ],
-    "relation": "Inquiry about Rama's virtues"
+    "relation": "not found"
   },
   {
-    "source_url": "http://www.valmikiramayan.net/bala_2.htm#VerseLocator",
+    "source_url": "",
     "entities": [
       {
-        "name": "Valmiki",
-        "type": "Sage",
-        "karaka_role": "Main Character"
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
       },
       {
-        "name": "Narada",
-        "type": "Divine Sage",
-        "karaka_role": "Inspirational Figure"
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
       },
       {
-        "name": "Bharadwaja",
-        "type": "Disciple",
-        "karaka_role": "Supporting Character"
-      },
-      {
-        "name": "Brahma",
-        "type": "Lord of Speech",
-        "karaka_role": "Divine Authority"
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
       }
     ],
-    "relation": "Valmiki meets Narada, is inspired, and then goes to the Tamasa river for a bath, where he has an encounter that leads to the creation of the Ramayana"
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "digital infrastructure",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "requested URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "Not Found",
+    "entities": [
+      {
+        "name": "requested URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "error handling mechanism",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "error_encountered"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "digital infrastructure",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "digital infrastructure",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "digital infrastructure",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "software component",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "location"
+      }
+    ],
+    "relation": "not found"
+  },
+  {
+    "source_url": "",
+    "entities": [
+      {
+        "name": "URL",
+        "type": "digital resource",
+        "karaka_role": "object"
+      },
+      {
+        "name": "server",
+        "type": "computer system",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "ErrorDocument",
+        "type": "digital resource",
+        "karaka_role": "instrument"
+      }
+    ],
+    "relation": "not found"
   }
 ]

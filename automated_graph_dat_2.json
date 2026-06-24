@@ -1,0 +1,1285 @@
+[
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/1/",
+    "entities": [
+      {
+        "name": "Dhritarashtra",
+        "type": "King",
+        "karaka_role": "Speaker"
+      },
+      {
+        "name": "Sanjay",
+        "type": "Messenger",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "Kurukshetra",
+        "type": "Location",
+        "karaka_role": "Battlefield"
+      },
+      {
+        "name": "Pandavas",
+        "type": "Army",
+        "karaka_role": "Opponent"
+      },
+      {
+        "name": "Dhritarashtra's sons",
+        "type": "Army",
+        "karaka_role": "Protagonist"
+      }
+    ],
+    "relation": "Inquiry about the battle"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/2/",
+    "entities": [
+      {
+        "name": "Sanjay",
+        "type": "Person",
+        "karaka_role": "Speaker"
+      },
+      {
+        "name": "Duryodhan",
+        "type": "Person",
+        "karaka_role": "King"
+      },
+      {
+        "name": "Dronacharya",
+        "type": "Person",
+        "karaka_role": "Teacher"
+      },
+      {
+        "name": "Pandava army",
+        "type": "Army",
+        "karaka_role": "Observed"
+      }
+    ],
+    "relation": "Observation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/3/",
+    "entities": [
+      {
+        "name": "Duryodhan",
+        "type": "Person",
+        "karaka_role": "Speaker"
+      },
+      {
+        "name": "Dronacharya",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "Pandu",
+        "type": "Person",
+        "karaka_role": "Father of the Pandavas"
+      },
+      {
+        "name": "Dhristadyumna",
+        "type": "Person",
+        "karaka_role": "Commander-in-chief of the Pandava army"
+      },
+      {
+        "name": "Drupad",
+        "type": "Person",
+        "karaka_role": "Father of Dhristadyumna"
+      }
+    ],
+    "relation": "Duryodhan asks Dronacharya to behold the mighty army of the Pandavas"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/4-6/",
+    "entities": [
+      {
+        "name": "Yuyudhan",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Virat",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Drupad",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Dhrishtaketu",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Chekitan",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Kashiraj",
+        "type": "king",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Purujit",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Kuntibhoj",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Shaibya",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Yudhamanyu",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Uttamauja",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Saubhadra",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Draupadi",
+        "type": "queen",
+        "karaka_role": "possessor"
+      },
+      {
+        "name": "Bheem",
+        "type": "warrior",
+        "karaka_role": "standard"
+      },
+      {
+        "name": "Arjun",
+        "type": "warrior",
+        "karaka_role": "standard"
+      },
+      {
+        "name": "Duryodhan",
+        "type": "king",
+        "karaka_role": "observer"
+      }
+    ],
+    "relation": "military_confrontation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/4-6/",
+    "entities": [
+      {
+        "name": "Yuyudhan",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Virat",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Drupad",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Dhrishtaketu",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Chekitan",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Kashiraj",
+        "type": "king",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Purujit",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Kuntibhoj",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Shaibya",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Yudhamanyu",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Uttamauja",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Saubhadra",
+        "type": "warrior",
+        "karaka_role": "agent"
+      },
+      {
+        "name": "Draupadi",
+        "type": "queen",
+        "karaka_role": "possessor"
+      },
+      {
+        "name": "Bheem",
+        "type": "warrior",
+        "karaka_role": "standard"
+      },
+      {
+        "name": "Arjun",
+        "type": "warrior",
+        "karaka_role": "standard"
+      },
+      {
+        "name": "Duryodhan",
+        "type": "king",
+        "karaka_role": "observer"
+      }
+    ],
+    "relation": "military_confrontation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/4-6/",
+    "entities": [
+      {
+        "name": "Yuyudhan",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Virat",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Drupad",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Dhrishtaketu",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Chekitan",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Kashiraj",
+        "type": "King",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Purujit",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Kuntibhoj",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Shaibya",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Yudhamanyu",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Uttamauja",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Saubhadra",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Draupadi",
+        "type": "Queen",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Bheem",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Arjun",
+        "type": "Warrior",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Duryodhan",
+        "type": "King",
+        "karaka_role": "Experiencer"
+      }
+    ],
+    "relation": "Enumeration of Warriors"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/7/",
+    "entities": [
+      {
+        "name": "Dronacharya",
+        "type": "Person",
+        "karaka_role": "Teacher"
+      },
+      {
+        "name": "Duryodhana",
+        "type": "Person",
+        "karaka_role": "Speaker"
+      }
+    ],
+    "relation": "Mention"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/8/",
+    "entities": [
+      {
+        "name": "Bheeshma",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      },
+      {
+        "name": "Karna",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      },
+      {
+        "name": "Kripa",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      },
+      {
+        "name": "Ashwatthama",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      },
+      {
+        "name": "Vikarna",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      },
+      {
+        "name": "Bhurishrava",
+        "type": "Person",
+        "karaka_role": "Victorious in battle"
+      }
+    ],
+    "relation": "are ever victorious in battle"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/9/",
+    "entities": [
+      {
+        "name": "Bheeshma",
+        "type": "Warrior",
+        "karaka_role": "Heroic warrior"
+      },
+      {
+        "name": "Arjun",
+        "type": "Warrior",
+        "karaka_role": "Protagonist"
+      }
+    ],
+    "relation": "Warfare"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/10/",
+    "entities": [
+      {
+        "name": "Bheeshma",
+        "type": "Person",
+        "karaka_role": "Commander-in-chief"
+      },
+      {
+        "name": "Bheema",
+        "type": "Person",
+        "karaka_role": "Warrior"
+      },
+      {
+        "name": "Kaurava army",
+        "type": "Organization",
+        "karaka_role": "Army"
+      },
+      {
+        "name": "Pandava army",
+        "type": "Organization",
+        "karaka_role": "Army"
+      },
+      {
+        "name": "Duryodhana",
+        "type": "Person",
+        "karaka_role": "King"
+      }
+    ],
+    "relation": "Comparison of army strengths"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/11/",
+    "entities": [
+      {
+        "name": "Duryodhana",
+        "type": "Person",
+        "karaka_role": "Commander"
+      },
+      {
+        "name": "Grandsire Bheeshma",
+        "type": "Person",
+        "karaka_role": "Defendant"
+      },
+      {
+        "name": "Kaurava army",
+        "type": "Organization",
+        "karaka_role": "Army"
+      }
+    ],
+    "relation": "Defend"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/12/",
+    "entities": [
+      {
+        "name": "Bheeshma",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Duryodhan",
+        "type": "Person",
+        "karaka_role": "Recipient"
+      },
+      {
+        "name": "Kuru dynasty",
+        "type": "Organization",
+        "karaka_role": "Affiliation"
+      }
+    ],
+    "relation": "Cheering"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/13/",
+    "entities": [
+      {
+        "name": "conches",
+        "type": "instrument",
+        "karaka_role": "object"
+      },
+      {
+        "name": "kettledrums",
+        "type": "instrument",
+        "karaka_role": "object"
+      },
+      {
+        "name": "bugles",
+        "type": "instrument",
+        "karaka_role": "object"
+      },
+      {
+        "name": "trumpets",
+        "type": "instrument",
+        "karaka_role": "object"
+      },
+      {
+        "name": "horns",
+        "type": "instrument",
+        "karaka_role": "object"
+      }
+    ],
+    "relation": "blared forth"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/14/",
+    "entities": [
+      {
+        "name": "Madhav",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Pandava army",
+        "type": "Organization",
+        "karaka_role": "Location"
+      },
+      {
+        "name": "Glorious chariot",
+        "type": "Object",
+        "karaka_role": "Instrument"
+      },
+      {
+        "name": "White horses",
+        "type": "Animal",
+        "karaka_role": "Instrument"
+      },
+      {
+        "name": "Divine conch shells",
+        "type": "Object",
+        "karaka_role": "Instrument"
+      }
+    ],
+    "relation": "Blew conch shells"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/15/",
+    "entities": [
+      {
+        "name": "Hrishikesh",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Panchajanya",
+        "type": "Conch Shell",
+        "karaka_role": "Instrument"
+      },
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Devadutta",
+        "type": "Conch Shell",
+        "karaka_role": "Instrument"
+      },
+      {
+        "name": "Bheem",
+        "type": "Person",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Paundra",
+        "type": "Conch Shell",
+        "karaka_role": "Instrument"
+      }
+    ],
+    "relation": "Blew Conch Shells"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/16-18/",
+    "entities": [
+      {
+        "name": "Yudhishthir",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Nakul",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Sahadev",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Shikhandi",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Dhrishtadyumna",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Virat",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Satyaki",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Drupad",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Draupadi",
+        "type": "Queen",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Abhimanyu",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Anantavijay",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Sughosh",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Manipushpak",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Blew their conch shells"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/16-18/",
+    "entities": [
+      {
+        "name": "Yudhishthir",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Nakul",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Sahadev",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Shikhandi",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Dhrishtadyumna",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Virat",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Satyaki",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Drupad",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Draupadi",
+        "type": "Queen",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Abhimanyu",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Anantavijay",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Sughosh",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Manipushpak",
+        "type": "Conch shell",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Blew conch shells"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/16-18/",
+    "entities": [
+      {
+        "name": "Yudhishthir",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Nakul",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Sahadev",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Kashi",
+        "type": "Kingdom",
+        "karaka_role": "Location"
+      },
+      {
+        "name": "Shikhandi",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Dhrishtadyumna",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Virat",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Satyaki",
+        "type": "Warrior",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Drupad",
+        "type": "King",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Draupadi",
+        "type": "Queen",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Abhimanyu",
+        "type": "Prince",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Subhadra",
+        "type": "Queen",
+        "karaka_role": "Subject"
+      }
+    ],
+    "relation": "Blew their conch shells"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/19/",
+    "entities": [
+      {
+        "name": "Dhritarashtra",
+        "type": "Person",
+        "karaka_role": "Recipient"
+      },
+      {
+        "name": "Pandavas",
+        "type": "Group",
+        "karaka_role": "Agent"
+      },
+      {
+        "name": "Kauravas",
+        "type": "Group",
+        "karaka_role": "Patient"
+      }
+    ],
+    "relation": "Shattering"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/20/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Dhritarashtra's sons",
+        "type": "Group",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      }
+    ],
+    "relation": "Arjun speaks to Shree Krishna"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/21-22/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Requester"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Requestee"
+      }
+    ],
+    "relation": "Request to position chariot"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/21-22/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Requester"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Requestee"
+      }
+    ],
+    "relation": "requests chariot placement"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/23/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Protagonist"
+      },
+      {
+        "name": "Dhritarashtra",
+        "type": "Person",
+        "karaka_role": "Antagonist"
+      },
+      {
+        "name": "Kauravas",
+        "type": "Group",
+        "karaka_role": "Opponent"
+      },
+      {
+        "name": "Pandavas",
+        "type": "Group",
+        "karaka_role": "Protagonist's Allies"
+      }
+    ],
+    "relation": "Battle Preparation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/24/",
+    "entities": [
+      {
+        "name": "Sanjay",
+        "type": "person",
+        "karaka_role": "speaker"
+      },
+      {
+        "name": "Arjun",
+        "type": "person",
+        "karaka_role": "addresser"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "person",
+        "karaka_role": "addressee"
+      },
+      {
+        "name": "Dhritarasthra",
+        "type": "person",
+        "karaka_role": "listener"
+      }
+    ],
+    "relation": "addressing"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/25/",
+    "entities": [
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Speaker"
+      },
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "Bheeshma",
+        "type": "Person",
+        "karaka_role": "Witness"
+      },
+      {
+        "name": "Dronacharya",
+        "type": "Person",
+        "karaka_role": "Witness"
+      },
+      {
+        "name": "Kurus",
+        "type": "Group",
+        "karaka_role": "Subject"
+      }
+    ],
+    "relation": "Addressing"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/26/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Observer"
+      },
+      {
+        "name": "fathers",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "grandfathers",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "teachers",
+        "type": "Mentor",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "maternal uncles",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "brothers",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "cousins",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "sons",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "nephews",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "grand-nephews",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "friends",
+        "type": "Social",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "fathers-in-law",
+        "type": "Family",
+        "karaka_role": "Observed"
+      },
+      {
+        "name": "well-wishers",
+        "type": "Social",
+        "karaka_role": "Observed"
+      }
+    ],
+    "relation": "Observation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/27/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Kunti",
+        "type": "Person",
+        "karaka_role": "Arjun's Mother"
+      },
+      {
+        "name": "Relatives",
+        "type": "Group",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Arjun sees his relatives and is overwhelmed with compassion"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/28/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "Kinsmen",
+        "type": "Group",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Arjun expresses his fear and reluctance to fight against his kinsmen to Krishna"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/29-31/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "G\u0101\u1e47\u1e0d\u012bv",
+        "type": "Object",
+        "karaka_role": "Instrument"
+      },
+      {
+        "name": "Keshi demon",
+        "type": "Entity",
+        "karaka_role": "Reference"
+      }
+    ],
+    "relation": "Arjun expresses his fear and reluctance to fight against his kinsmen to Krishna"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/29-31/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "person",
+        "karaka_role": "experiencer"
+      },
+      {
+        "name": "Krishna",
+        "type": "person",
+        "karaka_role": "addressed_entity"
+      },
+      {
+        "name": "G\u0101\u1e47\u1e0d\u012bv",
+        "type": "object",
+        "karaka_role": "instrument"
+      },
+      {
+        "name": "Keshi demon",
+        "type": "entity",
+        "karaka_role": "referenced_entity"
+      }
+    ],
+    "relation": "experiencing_fear_and_hesitation"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/29-31/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Krishna",
+        "type": "Person",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "G\u0101\u1e47\u1e0d\u012bv",
+        "type": "Object",
+        "karaka_role": "Instrument"
+      }
+    ],
+    "relation": "Arjun is experiencing fear and uncertainty in the presence of Krishna, and is hesitant to engage in battle with his own kinsmen."
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/32-33/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      }
+    ],
+    "relation": "Moral Dilemma"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/32-33/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      }
+    ],
+    "relation": "Moral Dilemma"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/34-35/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Addressee"
+      },
+      {
+        "name": "Dhritarashtra's sons",
+        "type": "Group",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Refusal to fight"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/34-35/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Subject"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Object"
+      },
+      {
+        "name": "Dhritarashtra's sons",
+        "type": "Group",
+        "karaka_role": "Object"
+      }
+    ],
+    "relation": "Arjun's reluctance to fight"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/36-37/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Karta"
+      },
+      {
+        "name": "Dhritarashtra",
+        "type": "Person",
+        "karaka_role": "Sampradana"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Sampradana"
+      }
+    ],
+    "relation": "Arjun is unwilling to kill his relatives, the sons of Dhritarashtra, despite them being aggressors."
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/36-37/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Person",
+        "karaka_role": "Karta"
+      },
+      {
+        "name": "Dhritarashtra's sons",
+        "type": "Group",
+        "karaka_role": "Karma"
+      },
+      {
+        "name": "Shree Krishna",
+        "type": "Person",
+        "karaka_role": "Sampradana"
+      }
+    ],
+    "relation": "Arjun's unwillingness to kill his relatives"
+  },
+  {
+    "source_url": "https://www.holy-bhagavad-gita.org/chapter/1/verse/38-39/",
+    "entities": [
+      {
+        "name": "Arjun",
+        "type": "Warrior",
+        "karaka_role": "Protagonist"
+      },
+      {
+        "name": "Janardan (Krishna)",
+        "type": "Divine Being",
+        "karaka_role": "Guide"
+      },
+      {
+        "name": "Duryodhana",
+        "type": "King",
+        "karaka_role": "Antagonist"
+      },
+      {
+        "name": "Ashwatthama",
+        "type": "Warrior",
+        "karaka_role": "Antagonist"
+      }
+    ],
+    "relation": "Arjun seeks guidance from Janardan (Krishna) on whether to turn away from the sin of killing his kindred"
+  }
+]

@@ -6,7 +6,7 @@ from neo4j import GraphDatabase
 # 1. CONFIGURE YOUR CREDENTIALS
 # Replace these strings with the details from your downloaded text file
 # =====================================================================
-NEO4J_URI = "neo4j+s://503a041c.databases.neo4j.io" 
+NEO4J_URI = "neo4j+ssc://503a041c.databases.neo4j.io" 
 NEO4J_USERNAME = "503a041c"
 NEO4J_PASSWORD = "1Si-0kQAFHDpXi0TM0lOadvCZgPsbMh1pBerhvN3K5I"
 
